@@ -13,6 +13,7 @@
 	<!-- 单元测试 -->
 	<!-- 单元测试 -->
 	<!-- 单元测试 master version 2.2-->
+	<!-- 单元测试  debug version 1.0-->
 	<dependencies>
 	<dependency>
 		<groupId>junit</groupId>
