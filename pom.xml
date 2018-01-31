@@ -9,6 +9,9 @@
 		<version>2.3.7-SNAPSHOT</version>
 	</parent>
 	<!-- 单元测试 -->
+	<!-- 单元测试 -->
+	<!-- 单元测试 -->
+	<!-- 单元测试 -->
 	<dependencies>
 	<dependency>
 		<groupId>junit</groupId>
