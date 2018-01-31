@@ -12,6 +12,7 @@
 	<!-- 单元测试 -->
 	<!-- 单元测试 -->
 	<!-- 单元测试 -->
+	<!-- 单元测试 master version 2.2-->
 	<dependencies>
 	<dependency>
 		<groupId>junit</groupId>
